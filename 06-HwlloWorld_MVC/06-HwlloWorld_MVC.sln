@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-HwlloWorld_MVC_UI", "06-HwlloWorld_MVC_UI\06-HwlloWorld_MVC_UI.csproj", "{72F5FBD6-A61C-47A7-AC69-5D27B963252E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F5FBD6-A61C-47A7-AC69-5D27B963252E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F5FBD6-A61C-47A7-AC69-5D27B963252E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F5FBD6-A61C-47A7-AC69-5D27B963252E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F5FBD6-A61C-47A7-AC69-5D27B963252E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25D9F119-B711-42DF-8A7B-24291C8A3A84}
+	EndGlobalSection
+EndGlobal
