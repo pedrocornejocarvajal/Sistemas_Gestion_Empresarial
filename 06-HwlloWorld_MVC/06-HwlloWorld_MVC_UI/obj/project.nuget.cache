@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bk9tQW+qCrkYBEZ1EjEWuIrzu+6gjGlThnaoM1U+dR2ZXEnG/PoNbajR7porIZfx6e0j/y4mhSOIdjgwFmv3gw==",
+  "dgSpecHash": "uFZclj5i/JiotrcTtp226OOve/lqskIyOuCd5q+0I0OYk5xONlRVvvtwmBvHudUE5HyvcIByPWKqRFwKoqSZdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pcornejo\\Documents\\EjerciciosSegundo\\EjerciciosSistemasGestionEmpresarial\\06-HwlloWorld_MVC\\06-HwlloWorld_MVC_UI\\06-HwlloWorld_MVC_UI.csproj",
+  "projectFilePath": "C:\\Users\\pcornejo\\Documents\\EjercicioSegundo\\Sistemas_Gestion_Empresarial\\06-HwlloWorld_MVC\\06-HwlloWorld_MVC_UI\\06-HwlloWorld_MVC_UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pcornejo\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\pcornejo\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
