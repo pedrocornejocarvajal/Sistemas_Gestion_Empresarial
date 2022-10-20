@@ -15,6 +15,11 @@ namespace DAL
         public List<clsDepartamentos> ListadoCompletoDepartamentos()
         {
             List<clsDepartamentos> lista = new List<clsDepartamentos>();
+
+
+            lista.Add(new clsDepartamentos(1,"Finanzas"));
+
+
             return lista;
         }
     }
