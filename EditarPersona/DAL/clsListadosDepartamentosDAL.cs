@@ -18,6 +18,9 @@ namespace DAL
 
 
             lista.Add(new clsDepartamentos(1,"Finanzas"));
+            lista.Add(new clsDepartamentos(2, "RRHH"));
+            lista.Add(new clsDepartamentos(3, "Marqueting"));
+            lista.Add(new clsDepartamentos(4, "Transportes"));
 
 
             return lista;

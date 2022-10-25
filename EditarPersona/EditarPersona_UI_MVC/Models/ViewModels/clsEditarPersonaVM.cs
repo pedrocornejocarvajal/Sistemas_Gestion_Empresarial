@@ -6,12 +6,30 @@ namespace EditarPersona_UI_MVC.Models.ViewModels
 {
     public class clsEditarPersonaVM
     {
-        
+        #region atributos
 
-        public List<clsDepartamentos> listadoCompletoDepartamentos { get;}
+        private List<clsDepartamentos> listadoCompletoDepartamentos;
+        private clsPersona persona;
 
-        public clsPersona persona { get; set; }
+        #endregion
 
+        #region propiedades
+        public List<clsDepartamentos> ListadoCompletoDepartamentos { get => this.listadoCompletoDepartamentos;}
+        public clsPersona Persona { get => persona; set => persona = value; }
+
+
+        #endregion
+
+        #region contructores
+
+        clsEditarPersonaVM()
+        {
+            this.persona = clsManejadoraPersonaDAL.obtenerPersonaPorID;
+            this.listadoCompletoDepartamentos = clsListadosDepartamentosDAL.ListadoCompletoDepartamentos();
+
+        }
+
+        #endregion
 
     }
 
