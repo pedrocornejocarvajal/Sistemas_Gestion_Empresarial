@@ -46,23 +46,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pcornejo\\.nuget\\packages\\": {},
+    "C:\\Users\\pedro\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pcornejo\\Documents\\EjercicioSegundo\\Sistemas_Gestion_Empresarial\\EditarPersona\\EditarPersona_UI_MVC\\EditarPersona_UI_MVC.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\Documents\\EjerciciosSegundo\\Sistemas_Gestion_Empresarial\\EditarPersona\\EditarPersona_UI_MVC\\EditarPersona_UI_MVC.csproj",
       "projectName": "EditarPersona_UI_MVC",
-      "projectPath": "C:\\Users\\pcornejo\\Documents\\EjercicioSegundo\\Sistemas_Gestion_Empresarial\\EditarPersona\\EditarPersona_UI_MVC\\EditarPersona_UI_MVC.csproj",
-      "packagesPath": "C:\\Users\\pcornejo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pcornejo\\Documents\\EjercicioSegundo\\Sistemas_Gestion_Empresarial\\EditarPersona\\EditarPersona_UI_MVC\\obj\\",
+      "projectPath": "C:\\Users\\pedro\\Documents\\EjerciciosSegundo\\Sistemas_Gestion_Empresarial\\EditarPersona\\EditarPersona_UI_MVC\\EditarPersona_UI_MVC.csproj",
+      "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pedro\\Documents\\EjerciciosSegundo\\Sistemas_Gestion_Empresarial\\EditarPersona\\EditarPersona_UI_MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\pcornejo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -78,11 +78,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\pcornejo\\Documents\\EjercicioSegundo\\Sistemas_Gestion_Empresarial\\EditarPersona\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\pcornejo\\Documents\\EjercicioSegundo\\Sistemas_Gestion_Empresarial\\EditarPersona\\DAL\\DAL.csproj"
+            "C:\\Users\\pedro\\Documents\\EjerciciosSegundo\\Sistemas_Gestion_Empresarial\\EditarPersona\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\pedro\\Documents\\EjerciciosSegundo\\Sistemas_Gestion_Empresarial\\EditarPersona\\DAL\\DAL.csproj"
             },
-            "C:\\Users\\pcornejo\\Documents\\EjercicioSegundo\\Sistemas_Gestion_Empresarial\\EditarPersona\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\pcornejo\\Documents\\EjercicioSegundo\\Sistemas_Gestion_Empresarial\\EditarPersona\\Entidades\\Entidades.csproj"
+            "C:\\Users\\pedro\\Documents\\EjerciciosSegundo\\Sistemas_Gestion_Empresarial\\EditarPersona\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\pedro\\Documents\\EjerciciosSegundo\\Sistemas_Gestion_Empresarial\\EditarPersona\\Entidades\\Entidades.csproj"
             }
           }
         }
@@ -115,7 +115,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
